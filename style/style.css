@@ -1,0 +1,54 @@
+table {
+    width: 80%;
+    background-color: pink;
+    border-collapse: collapse;
+    margin: auto;
+    font-weight: bold;
+}
+
+td,
+th {
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+    height: 70px;
+    border: 2px solid white;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+.holyday {
+    background-color: orange;
+}
+
+.school {
+    border: 3px dashed red;
+}
+
+.images-box1 {
+    background-image: url(../images/img2.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.images-box2 {
+    background-image: url(../images/img3.jfif);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.date {
+    border: 1px solid white;
+    height: 50px;
+    background-color: blue;
+    width: 79.8%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+}
